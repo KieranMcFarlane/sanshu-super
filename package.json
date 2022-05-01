@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
